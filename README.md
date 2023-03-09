@@ -1,2 +1,2 @@
 # WTF-project
-An online library for 
+An online library for origami models
